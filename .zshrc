@@ -19,6 +19,7 @@ git
 node
 npm
 brew
+bun
 )
 
 export NVM_DIR="$HOME/.nvm"
